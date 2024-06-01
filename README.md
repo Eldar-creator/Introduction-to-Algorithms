@@ -25,5 +25,5 @@ FutureTech Learning Solutions has decided to launch a new training course, "Intr
 [Evaluation Criteria.pdf](https://github.com/user-attachments/files/15521481/Evaluation.Criteria.pdf)
 
 # Link to the course on platform
- in progress 
+https://stepik.org/206952
 
