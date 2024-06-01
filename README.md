@@ -5,7 +5,7 @@ FutureTech Learning Solutions has decided to launch a new training course, "Intr
 ![2024-06-01_17-27-31](https://github.com/Eldar-creator/Introduction-to-Algorithms/assets/75829903/229e42bb-0077-4429-a858-1c0c3f2de249)
 ![2024-06-01_17-28-34](https://github.com/Eldar-creator/Introduction-to-Algorithms/assets/75829903/e8b5272e-86d2-4d3f-81a5-001c28ef185a)
 ![2024-06-01_17-28-04](https://github.com/Eldar-creator/Introduction-to-Algorithms/assets/75829903/657e0b8a-56f4-46d6-9ce3-01944940b290)
-![2024-06-01_17-27-31](https://github.com/Eldar-creator/Introduction-to-Algorithms/assets/75829903/d666f97a-f146-4ee0-881d-81f2cbc02bd7)
+
 
 # Full Presentation 
 
